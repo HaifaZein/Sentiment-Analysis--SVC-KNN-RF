@@ -1,7 +1,7 @@
-# Sentiment Analysis on Palestine-Israel War through Facebook Posts
+# Sentiment Analysis using Machine Learning Models
 
 ## Overview
-This project analyzes sentiment in Facebook posts related to the Palestine-Israel war. The analysis is conducted using machine learning models, including:
+This project analyzes sentiment in Facebook posts using machine learning models, including:
 - Support Vector Machine (SVM)
 - Random Forest Classifier
 - k-Nearest Neighbors (k-NN)
@@ -12,7 +12,7 @@ The dataset consists of 1,037 manually annotated Facebook posts, categorized int
 - Data was collected using a Facebook scraper.
 - Posts were manually labeled as:
   - **Fact** (Neutral)
-  - **Opinion** (Against/With)
+  - **Opinion** (Positive/Negative)
 
 ## Exploratory Data Analysis (EDA)
 - Basic statistics and structure of the dataset
